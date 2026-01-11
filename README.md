@@ -1,4 +1,7 @@
 # Prerequisites
+###
+- Prerequisites for the project are the basic requirements that must be fulfilled before starting the project, such as necessary knowledge, tools, software, permissions, or resources. These ensure the project can be executed smoothly without delays or technical issues.
+###
 #####
 - JDK 21 
 - Maven 3.9 
