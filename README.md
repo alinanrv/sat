@@ -3,7 +3,9 @@
 - JDK 21 
 - Maven 3.9 
 - MySQL 8
-
+####
+- making changes to this file soon
+####
 # Technologies 
 - JAKARTA
 - Spring MVC
